@@ -17,3 +17,4 @@ PRODUT:
     NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 dev: dev
+label: release
