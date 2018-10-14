@@ -16,4 +16,4 @@ PRODUT:
   ribbon:
     NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
-dev: test
+env: dev
