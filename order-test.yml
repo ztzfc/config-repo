@@ -13,3 +13,6 @@ PRODUT:
     NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 env: test4
+girl:
+  name: lili
+  age: 18
