@@ -14,3 +14,5 @@ spring:
     port: 6379
   jpa:
     show-sql: true
+server:
+  port: 8083
